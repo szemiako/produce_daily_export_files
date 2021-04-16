@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Vendors>
+  <Vendor VendorName="Vendor_1" VendorGUID="2829e5ce-4255-4ca4-8ae6-a66bc61ab8de" LastProcessDate="2021-04-04" />
+  <Vendor VendorName="Vendor_2" VendorGUID="65f30b99-93fa-497d-8747-12e3733a9d42" LastProcessDate="2021-03-26" />
+  <Vendor VendorName="Vendor_3" VendorGUID="3996ebf0-c210-40fd-b909-ca7d86005e57" LastProcessDate="2021-03-25" />
+</Vendors>
